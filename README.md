@@ -1,7 +1,6 @@
-# progettoProgrammazione2
 # Programmazione 2 appello del 7 luglio 2021 Claudio Nuncibello
 
-Scelte progettuali:
+## Scelte progettuali:
   ho deciso di gestire gli input da file creando la classe Persona che, oltre al cognome del cliente, ha un
   puntatore alla lista di ordinazioni in modo da svolgere il primo quesito del compito ( Raggruppare le
   ordinazioni per cliente ) direttamente all’inserimento.
@@ -11,7 +10,7 @@ Scelte progettuali:
   ListaOrdinazioni:: inserisciInCoda(Nodo<Ordinazioni> *)
   Una volta implementata la parte di cui sopra, si procede con lo sviluppo di quanto richiesto ai punti 3 e 4.
 
-In particolare :
+## In particolare :
   1. per il punto 3 ho sviluppato un metodo di ListaPersona che prende in input la stringa cognome, e un
   puntatore ad una variabile double( per salvarci il totale speso dal cliente) , il metodo stampa tutte le
   Comande dell’oggetto Persona con quel cognome.
