@@ -1,5 +1,6 @@
 # progettoProgrammazione2
-#Programmazione 2 appello del 7 luglio 2021 Claudio Nuncibello
+# Programmazione 2 appello del 7 luglio 2021 Claudio Nuncibello
+
 Scelte progettuali:
   ho deciso di gestire gli input da file creando la classe Persona che, oltre al cognome del cliente, ha un
   puntatore alla lista di ordinazioni in modo da svolgere il primo quesito del compito ( Raggruppare le
